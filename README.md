@@ -1,5 +1,8 @@
 # EXP2:Counter_4bit_up-down
 
+
+
+
 ## Aim:
 
 To write a verilog code for 4bit up/down counter and verify the functionality using Test bench. 
@@ -41,6 +44,8 @@ Functional Simulation:
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
+
+
 
 
 ## Creating Source Code:
@@ -223,6 +228,13 @@ It contains statements that map logical library names to their physical director
 ![image](https://github.com/user-attachments/assets/0e16d274-a1f3-456d-ba64-6f05446b5ab3)
 
 ## Fig 10: Simulation Waveform Window
+
+
+
+
+
+
+
 
 
 
